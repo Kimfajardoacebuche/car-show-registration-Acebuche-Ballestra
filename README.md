@@ -9,7 +9,7 @@ Backend API for the **Car Show Registration System** (**AutoVista Events — Car
 | Member | Role | Responsibility |
 | :--- | :--- | :--- |
 | `<Acebuche Kim>` | Backend Developer | .NET 10 API, Vertical Slices, SQLite EF Core, FluentValidation, Scalar testing |
-| `<Frontend Developer Name>` | Frontend Developer | React (Vite) frontend application and dashboard |
+| `<Ballestra Venus>` | Frontend Developer | React (Vite) frontend application and dashboard |
 
 ---
 
